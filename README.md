@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Chandana! 👋
 
-<!--
-**Chandana-Nidhi/Chandana-Nidhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Information Science & Engineering Graduate*  
+💻 *Software Developer* passionate about building modern web applications and writing clean code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills:
+- *Languages:* Python, JavaScript
+- *Web Technologies:* HTML5, CSS3, Node.js
+- *Databases:* PostgreSQL
+- *Developer Tools:* Git, GitHub, VS Code
+
+---
+
+### 🌐 Connect with me:
+- *GitHub:* [Chandana-Nidhi](https://github.com/Chandana-Nidhi)
+
+---
+⭐️ Always excited to learn new technologies and build impactful projects!
